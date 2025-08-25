@@ -4,11 +4,11 @@ date: 2023-06-01 20:14 +0300
 categories: [Programming, Software Development, Kotlin Tutorials, Design Patterns, Best Practices in Coding, Software Engineering Principles]
 tags: [Kotlin, Kotlin Programming, Kotlin Design Patterns, Null Safety, Extension Functions, Singleton Pattern, Builder Pattern, Clean Code, Software Engineering, Programming Best Practices]
 author: Sangameshwar
+image: https://cdn-images-1.medium.com/max/800/1*Kt6Mj-XtM-0IxygY_5iJ_A.png
 ---
 
 # A Guide to Better Code
 
-![Kotlin Builder Pattern](https://cdn-images-1.medium.com/max/800/1*Kt6Mj-XtM-0IxygY_5iJ_A.png)
 *Builder Pattern in Kotlin*
 
 Kotlin is a modern, statically typed programming language that was designed to improve upon Java. It has a clean syntax, supports functional programming, and provides many features that make it easier to write high-quality, maintainable code. In this blog, we will explore some of the most important design patterns that should be followed in Kotlin to write better code.

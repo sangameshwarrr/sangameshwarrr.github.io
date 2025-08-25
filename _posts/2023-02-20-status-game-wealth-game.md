@@ -4,11 +4,10 @@ date: 2023-02-20
 categories: ["Mindset", "Wealth", "Personal Growth"]
 tags: ["Status Games", "Wealth Games", "Financial Freedom", "Self Improvement", "Contentment", "Success Mindset"]
 author: Sangameshwar
+image: https://cdn-images-1.medium.com/max/800/1*UpCTCEYZpxDRuQ4yWtwjbw.png
 ---
 
 # 🎭 Status Games vs. 💰 Wealth Games: Choosing the Path That Truly Matters
-
-![Status vs Wealth Games](https://cdn-images-1.medium.com/max/800/1*UpCTCEYZpxDRuQ4yWtwjbw.png)
 
 ---
 

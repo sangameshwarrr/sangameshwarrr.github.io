@@ -4,10 +4,9 @@ date: 2023-02-15
 categories: ["Mindset", "Self Improvement", "Personal Growth"]
 tags: ["Neuroplasticity", "Positive Thinking", "Subconscious Mind", "Self Belief", "Affirmations", "Success Mindset"]
 author: Sangameshwar
+image: https://cdn-images-1.medium.com/max/800/1*CS1uKz0FCNmC87yUxGLr9A.png
 ---
 
-
-![How to Get What You Want](https://cdn-images-1.medium.com/max/800/1*CS1uKz0FCNmC87yUxGLr9A.png)
 
 As we grow up, our minds often become entangled in societal conditioning, shaping the way we think and act.
 

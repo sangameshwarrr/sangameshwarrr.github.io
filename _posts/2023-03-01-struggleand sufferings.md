@@ -4,12 +4,11 @@ date: 2023-03-01
 categories: ["Life Lessons", "Mindset", "Resilience"]
 tags: ["Struggles", "Suffering", "Resilience", "Personal Growth", "Mindset", "Life Journey"]
 author: Sangameshwar
+image: https://cdn-images-1.medium.com/max/800/1*k1t5f0hopgLAUBDdpJfIhA.png
 ---
 
 
 *How to Navigate Life’s Challenges and Turn Struggles into Strengths*
-
-![Struggles in Life](https://cdn-images-1.medium.com/max/800/1*k1t5f0hopgLAUBDdpJfIhA.png)
 
 ---
 

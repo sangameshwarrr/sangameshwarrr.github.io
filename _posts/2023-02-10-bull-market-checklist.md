@@ -4,10 +4,9 @@ date: 2023-02-10
 categories: ["Finance", "Investing", "Stock Market"]
 tags: ["Bull Market", "Stock Market", "Investing Tips", "Risk Management", "Financial Discipline", "Cash Management", "Market Cycles"]
 author: Sangameshwar
+image:  https://cdn-images-1.medium.com/max/800/1*3ZLQduETPeehmZM5ReRHXQ.png
 ---
 
-
-![Bull Market Checklist](https://cdn-images-1.medium.com/max/800/1*3ZLQduETPeehmZM5ReRHXQ.png)
 
 Bull markets have a seductive charm, luring investors into believing that stocks only go up and will never come down. However, it’s essential to resist this temptation and approach investing with caution and strategy.
 

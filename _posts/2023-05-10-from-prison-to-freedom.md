@@ -4,12 +4,11 @@ date: 2023-05-10
 categories: ["Mindset", "Freedom", "Personal Growth"]
 tags: ["Debt", "Wealth", "Anxiety", "Meditation", "Wisdom", "Social Media Detox", "Self Improvement"]
 author: Sangameshwar
+image: https://cdn-images-1.medium.com/max/800/1*cbe_uZ8-U5buNFJo444J3g.png
 ---
 
 
 ## ✨ Discover the Simple Shifts That Can Transform Your Life Today
-
-![Breaking Free](https://cdn-images-1.medium.com/max/800/1*cbe_uZ8-U5buNFJo444J3g.png)
 
 ---
 
