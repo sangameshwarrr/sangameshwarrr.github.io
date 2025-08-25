@@ -16,6 +16,7 @@ image: https://cdn-images-1.medium.com/max/800/0*DKIn4JJVGUV5gl0t
 
 ### Ever Felt Lost with Money?
 
+
 I know I did. Just a few years back, I was clueless about how to make my money work for me. There was always so much advice floating around, but where do you even start?
 
 Then I found some basic financial rules. They were easy to follow, and suddenly, things just clicked.
