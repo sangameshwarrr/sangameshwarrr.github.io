@@ -1,7 +1,7 @@
 ---
 title: "Playing the Long-Term Game"
 description: "What if I told you the secret to success is sticking around longer than everyone else?"
-date: 2025-08-29 10:00:00 +0000
+date: 2025-08-28 10:00:00 +0000
 categories: [Life, Motivation, Success]
 tags: [long-term, success, patience, mindset]
 image: https://cdn-images-1.medium.com/max/800/1*1xXoApnpjEUr6ES72Ot-Tg.png
